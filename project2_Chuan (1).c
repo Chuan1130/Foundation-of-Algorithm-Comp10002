@@ -2,8 +2,7 @@
 Author by Yuchuan Zou for the Assignment 2 in COMP10002 Foundation-Of-Algorithm 
 2024 S2 in the University of Melbourne.
 uploading time: 11/11/2024.
-The score is 19/20 as there is a part of the code that is duplicated, 
-I may make changes subsequently.
+The score is 20/20.
 */
 
 #include <stdio.h>
